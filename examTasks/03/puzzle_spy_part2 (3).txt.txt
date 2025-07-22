@@ -1,9 +1,0 @@
-Good job team! But it looks like that the enemy has noticed you and they have launched a rocket to your location. The only way to dissable it is the code that you have found out. But it looks like that the code does not work. Everyone starts to look for other patterns in the intercepted message. After couple of seconds you find it!!! Nice job! It looks like that every three lines have a common letter. 
-
-For example: the first three lines of the message are:
-1st person: j L n F T j h w F T L F D G D D v L g v D s s B J B b V R N Z J P P J B G z B N R V J N R B
-2nd person: Q W m f f S m M Z C f W r m H l C f l Q W f S N B p V B N b P S b b J N p p c V V z z p c p
-3rd person: l f l r q r W M m f d M l r t W W m Z g D j s q w F w h F D s n g n v h q s
-Duplicates: Z -> 52 
-
-Task: What is the sum of all common letters?

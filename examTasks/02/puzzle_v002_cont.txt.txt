@@ -1,4 +1,0 @@
-Your friend finishes with the wood gathering and comes back to you: "The second column defines the outcome of the match. X for lose, Y for draw and Z for win."
-
-
-Task: Calculate the score you would get if you follow the strategy that your friend created.
