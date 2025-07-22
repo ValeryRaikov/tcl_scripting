@@ -1,0 +1,25 @@
+############################################################
+##### First team building event did not go as planned. #####
+############################################################
+
+You are on a team building event with your coworkers in the mountains one day. Someone suggested to take a shortcut and we followed a trail that looked like it would lead us back to the main trail, but after a while, we realized that we were lost. We wandered around for hours, trying to find our way back, but we just kept getting more and more lost. We were starting to get worried and hungry. 
+In order to make sure that everyone has enough food we have started to build an inventory list of our supplies.
+
+Each person separted their own inventory from the previous inventory by a blank line. For example:
+4281
+15698
+6045
+
+7835
+10597
+
+16109
+
+The above list represent the Calories of the food carried by 3 people:
+- The first person is carrying 3 food items with 4281, 15698, 6045 Calories. Which equals to total of 26024 Calories.
+- The second person is carrying 2 food items with 7835 and 10597 Calories (12432 Calories in total).
+- The third person is carrying one food item with 16109 Calories.
+
+If someone eats all of their snacks he needs to know who to ask for more food. 
+
+Task: Find the person carrying the most Calories.

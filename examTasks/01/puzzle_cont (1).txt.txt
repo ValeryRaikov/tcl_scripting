@@ -1,0 +1,7 @@
+####################################################################
+##### First team building event did not go as planned. (Cont.) #####
+####################################################################
+
+We quickly realize that the person carrying the most of calories will eventually run out of snacks. To avoid this, we have decided to check the total number of calories carried by the top three people carrying the most Calories.
+
+Task: Find the sum of Calories of the snacks that are carried by the top three people carrying most of the calories.
