@@ -1,0 +1,22 @@
+The year is 2043 and the world is in the midst of a cold war between two superpowers. Both sides have been devoloping weapons and technologies, and complex encryptions algorithms. One day your team intercepts a mysterious encrypted message (your puzzle input). On closer inspection it looks like that each line can be divided in two equal by size sections and there is only one letter that is repeated in both sections. A given line always has the same number of items in each of the two sections. This is the clue that your team was looking for in order to figure out the message. 
+
+For example the first 5 rows of the encrypted message are:
+jLnFTjhwFTLFDGDDvLgvDssBJBbVRNZJPPJBGzBNRVJNRB
+QWmffSmMZCfWrmHlCflQWfSNBpVBNbPSbbJNppcVVzzpcp
+lflrqrWMmfdMlrtWWmZgDjsqwFwhFDsngnvhqs
+CNBGwsWVsdWDNCCVvfPLfQfgZHPBvpgf
+qhJqJlmcFnhJclllPgZjvpHpvfZpPbLn
+
+- The first line of the message is "jLnFTjhwFTLFDGDDvLgvDssBJBbVRNZJPPJBGzBNRVJNRB", which means that it can be divided into two equal sections: jLnFTjhwFTLFDGDDvLgvDss and BJBbVRNZJPPJBGzBNRVJNRB. The only letter that appears in both sections is uppercase G.
+- The 2nd line of the code shares the letter S.
+- The 3rd line of the code shares the letter q.
+- The 4th line of the code shares the letter B.
+- The 5th line of the code shares the letter n.
+
+After finding this patterns the team gathers and tries to figure out what does the letters mean. After a brainstorming session someones figures out that:
+- Lowercase letters "a" through "z" can be converted to a number from 1 through 26.
+- And uppercase letters "A" through "Z" can be converted to a number from 27 through 52.  
+
+In the above example the letters can be converted to: G -> 33, S -> 45,  q -> 17, B -> 28 and n -> 14. And the sum of those number is 137.
+
+Task: What is the sum of all repeating letters in the encrypted message?
